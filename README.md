@@ -1,6 +1,6 @@
 # Angular 1.x Route protection example
 
-This is a basic and client side only example !
+**This is a basic and client side only example !
 
 ## Usage
 
