@@ -2,6 +2,8 @@
 
 **This is a basic and client side only example !**
 
+You can see this example working at https://igor-lopes.github.io/angular-route-protection/
+
 ## Usage
 
 In order to authenticate and test routes authorization, you must enter the credentials:
